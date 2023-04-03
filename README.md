@@ -12,7 +12,9 @@ Facilitando o dia a dia
 › Instale as dependências do projeto usando os comandos a seguir:
 
 npm i readline-sync
+
 npm i chalk
+
 › Abra o terminal e use o comando
 
 node app.js
